@@ -23,12 +23,21 @@ table {
     color: white;
   }
 
+hr{
+  font-weight: normal;
+
+
+  font-weight: bold;
+
+  font-weight: 900;
+}}
+
   h1{
     font-size: xx-large;
     color: black;
     text-align:center;
   }
-
+d
   h2{
     color: black;
     text-align:center;
